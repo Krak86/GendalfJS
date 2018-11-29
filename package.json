@@ -1,0 +1,22 @@
+{
+  "name": "gendalfjs",
+  "version": "1.0.0",
+  "description": "A lightweight Javascript library that allows you to use Gendalf ASCII animation without any video and audio files.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krak86/GendalfJS.git"
+  },
+  "keywords": [
+    "gendalf"
+  ],
+  "author": "Ruslan Korkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krak86/GendalfJS/issues"
+  },
+  "homepage": "https://github.com/Krak86/GendalfJS#readme"
+}
