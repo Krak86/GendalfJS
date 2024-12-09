@@ -1,7 +1,7 @@
 {
   "name": "gendalfjs",
   "private": false,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight Javascript library that allows you to use Gendalf ASCII animation without any video and audio files - ASCII GENDALF",
   "main": "src/index.js",
   "scripts": {
