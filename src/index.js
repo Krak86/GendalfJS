@@ -1,3 +1,3 @@
-var gendalf = require('./gendalf');
+import Gendalf from "./gendalf";
 
-new gendalf(1, "div");
+// new Gendalf();
